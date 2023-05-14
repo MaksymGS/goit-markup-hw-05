@@ -560,7 +560,6 @@ img {
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
-  transition-delay: 400ms;
 }
 .modal {
   position: absolute;
